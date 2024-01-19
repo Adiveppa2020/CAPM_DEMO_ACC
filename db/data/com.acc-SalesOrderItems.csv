@@ -1,0 +1,5 @@
+salesorder_ID;itemNo;material;quantity
+1;10;Pen;100
+1;20;Pencil;200
+2;10;Pen;50
+2;20;Pencil;100
